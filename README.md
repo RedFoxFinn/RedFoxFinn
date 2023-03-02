@@ -5,7 +5,7 @@
 
 Some of my repositories here are programming assignments (both new and old can be found) and some are personal projects.
 
-One of my projects is related to the @ruuvi and their BLE environmental measuring devices, RuuviTags.
+One of my projects is related to the [Ruuvi](https://github.com/ruuvi) and their BLE environmental measuring devices, RuuviTags.
 Idea is to build a alternative for the Ruuvi Cloud which could be set on your home network and kept there.
 Due to the studies, this is partially staying in the drawer and partially taking influence from my current studies, so it might get completely different approach in some point. But the idea should remain the same.
 
