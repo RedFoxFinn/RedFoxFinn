@@ -1,17 +1,13 @@
 - 👋 Hi, I’m @RedFoxFinn
-- 👀 I’m interested in many fields of Computer Science (from Dev via Data to AI)
+- 👀 I’m interested in backend and data-dev while can work with frontend
 - 🌱 I’m currently student at the University of Helsinki, department of Computer Science
-- 📫 How to reach me: 31569997+RedFoxFinn@users.noreply.github.com
+- 📫 How to reach me: development[dot]redfox{at}gmail.com
 
 Some of my repositories here are programming assignments (both new and old can be found) and some are personal projects.
 
-One of my projects is related to the [Ruuvi](https://github.com/ruuvi) and their BLE environmental measuring devices, RuuviTags.
-Idea is to build a alternative for the Ruuvi Cloud which could be set on your home network and kept there.
-Due to the studies, this is partially staying in the drawer and partially taking influence from my current studies, so it might get completely different approach in some point. But the idea should remain the same.
-
 Used languages & frameworks:
 
-- Java (not in a while, tho)
+- Java (not in a while)
 - JavaScript
   - React + Redux
   - Apollo & Apollo-server(-express) for GraphQL
@@ -21,7 +17,9 @@ Used languages & frameworks:
 - Qt (just light tinkering, but maybe it'll be in some of my works later)
 - Python
   - Tkinter (does its job, maybe?)
-  - Flask (newest addition)
+  - Flask, a bit of Django
+  - pytest, a bit of robot framework
+- R
 
 <!---
 RedFoxFinn/RedFoxFinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
