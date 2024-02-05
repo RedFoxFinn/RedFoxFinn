@@ -7,14 +7,14 @@ Some of my repositories here are programming assignments (both new and old can b
 
 Used languages & frameworks:
 
-- Java (not in a while)
+- Java (before java 12 came out)
 - JavaScript
-  - React + Redux
+  - React + Redux(-toolkit)
   - Apollo & Apollo-server(-express) for GraphQL
   - Node + Express
   - Cypress + Jest
 - Dart & Flutter
-- Qt (just light tinkering, but maybe it'll be in some of my works later)
+- Qt (just light tinkering, but possibly use it some way later)
 - Python
   - Tkinter (does its job, maybe?)
   - Flask, a bit of Django
