@@ -5,21 +5,28 @@
 
 Some of my repositories here are programming assignments (both new and old can be found) and some are personal projects.
 
-Used languages & frameworks:
+Prior user of:
 
-- Java (before java 12 came out)
+- Java (8 & 12)
+
+User of:
+
 - JavaScript
   - React + Redux(-toolkit)
   - Apollo & Apollo-server(-express) for GraphQL
   - Node + Express
   - Cypress + Jest
-- Dart & Flutter
-- Qt (just light tinkering, but possibly use it some way later)
 - Python
   - Tkinter (does its job, maybe?)
   - Flask, a bit of Django
   - pytest, a bit of robot framework
 - R
+
+On hold for later:
+
+- Qt (just light tinkering, but possibly use it some way later)
+- Dart & Flutter (just like Qt)
+- C++ (just like Qt)
 
 <!---
 RedFoxFinn/RedFoxFinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
