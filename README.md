@@ -5,29 +5,6 @@
 
 Some of my repositories here are programming assignments (both new and old can be found) and some are personal projects.
 
-Prior user of:
-
-- Java (8 & 12)
-
-User of:
-
-- JavaScript
-  - React + Redux(-toolkit)
-  - Apollo & Apollo-server(-express) for GraphQL
-  - Node + Express
-  - Cypress + Jest
-- Python
-  - Tkinter (does its job, maybe?)
-  - Flask, a bit of Django
-  - pytest, a bit of robot framework
-- R
-
-On hold for later:
-
-- Qt (just light tinkering, but possibly use it some way later)
-- Dart & Flutter (just like Qt)
-- C++ (just like Qt)
-
 <p>
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RedFoxFinn&show_icons=true&locale=en" alt="RedFoxFinn" />
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=RedFoxFinn&local=en&layout=compact" alt="RedFoxFinn"/>
